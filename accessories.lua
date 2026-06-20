@@ -837,7 +837,7 @@ u1.Gucci = {
             sourceType = "Custom",
             customModelName = "GucciMask",
             isMultiPart = true,
-            economyProfile = "risky"
+            economyProfile = "jackpot"
         },
         {
             id = "74493965787309",
